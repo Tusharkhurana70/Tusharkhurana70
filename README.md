@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tusharkhurana
 - 👀 I’m interested in App Development.
-- 🌱 I’m currently learning Flutter.
+- 🌱 I’m currently learning Full Stack Web and React Native.
 - 📫 How to reach me just drop a Email- tusharkhurana70@gmail.com.
 
 <!---
